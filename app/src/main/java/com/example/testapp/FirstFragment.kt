@@ -20,8 +20,6 @@ open class FirstFragment : Fragment() {
 
     protected var name: String? = null
 
-
-
     override fun onCreateView(
             inflater: LayoutInflater, container: ViewGroup?,
             savedInstanceState: Bundle?
